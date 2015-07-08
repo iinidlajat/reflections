@@ -1,0 +1,41 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    it helped to recognize the typo that was created and also it might help to pinpoint if I have changed anything unintentionally.
+
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    having all the old versions of your file makes you cinfident to do risky operations on your file as you are sure that you can restore to any old version if anything goes wrong. other than that if there are multiple people working on a file you can compare their work to your or use their previous works for your benefit.
+
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    committing manualy allows to have meaningful versions saved that are logical change points in the process, on the other hand committing automatically, although prevents us from forgetting to commit an important change it is more likely to have meaningless versions saved that are not beneficial and just clutter the workspace.
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    when coding, we usually want our versions to work at each commit, so all the file should be present in a commit wether all of them has changed or some of them, on the other hand when editting a nion-code document, there is no need to have interconnected files so saving files individually would be alright.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log shows the commits of the repository and git diff with inputs of the IDs of two commits would result in showing the differences between the two and adding --stat to log diff will give the total number of lines added or deleted.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    if you know that you can restore to any previous version then you get confident to do risky changes in the project.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    for data science.
