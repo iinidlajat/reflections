@@ -7,16 +7,16 @@ How is the staging area different from the working directory and the repository?
 
 
 How can you use the staging area to make sure you have one commit per logical
-change?
+change?  you can check in the staging area if you have everything prepared and ready to commit.
 
 
 
 What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organized? How would branches help?  if I want to make an experimental change but don't want to affect the main version or if I want to make another version of the file, branches come in handy.
 
 
 
-How do the diagrams help you visualize the branch structure?
+How do the diagrams help you visualize the branch structure?  very poorly!!!
 
 
 
